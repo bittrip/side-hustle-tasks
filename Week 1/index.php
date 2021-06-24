@@ -18,6 +18,14 @@
     <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
+    <h1>Week 1</h1>
+    <h3>Question</h3>
+    <p>Write a range function that takes two arguments, 
+    start and end, and returns an array containing 
+    all the numbers from start up to (and including) 
+    end. Next, write a sum function that takes an 
+    array of numbers and returns the sum of these 
+    numbers.</p>
     <?php
     // Function definitions.
     // myRange function returns an array.
