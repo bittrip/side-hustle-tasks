@@ -1,0 +1,26 @@
+.registration-form {
+    display: block;
+    margin: auto;
+    border: solid;
+    max-width: 320px;
+}
+
+.login-form {
+    display: block;
+    margin: auto;
+    border: solid;
+    max-width: 320px;
+}
+.form-element {
+    padding: 5px;
+    text-align: center;
+}
+
+.form-title {
+    text-align: center;
+    border: solid;
+}
+
+.error {
+    color: red;
+}
